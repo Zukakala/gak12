@@ -23,7 +23,6 @@ function App() {
 
     setUsers([...users, newUser]);
 
-    // Clear form
     setFirstName('');
     setLastName('');
     setAge('');
